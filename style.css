@@ -1,0 +1,31 @@
+        #mrdefoe{
+            color:burlywood;
+        }
+        
+        h1, h2, h3, h4 {
+            background-color:
+            color: rgb(236, 243, 243);
+            font-size: 30px;
+            margin: 0;
+        }
+        
+        h1 {
+            color: coral;
+            color:bisque;
+        }
+        
+        .uppercase{
+            text-transform: uppercase;
+            color:blanchedalmond;
+            background-color: hotpink;
+        }
+        
+        .important {
+        color:red;
+        background-color: blanchedalmond;
+        }
+        
+        #the-One {
+            color:brown;
+        }
+        
